@@ -8,6 +8,11 @@ public class Main {
         Omnax.Planets="2";
         Omnax.Star="4";
 
+        FeatureSun XEon=new FeatureSun();
+
+        XEon.name="treo";
+        XEon.size="-5468146km";
+        XEon.temp="-545454 celcius";
 
 
     }
