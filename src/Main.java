@@ -14,6 +14,8 @@ public class Main {
         AdamX.temp="123456 celcius";
         AdamX.size="325454Km";
 
+
+
         Planet2 Feon= new Planet2();
         Feon.name= "exo";
         Feon.color= "white";
